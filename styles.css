@@ -1,0 +1,12 @@
+header {
+  background-color: blue;
+}
+article {
+  background-color: silver;
+}
+footer {
+  background-image: url("footerImage.jpg");
+}
+a {
+  font-size: 40px;
+}
