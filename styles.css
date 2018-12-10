@@ -21,3 +21,18 @@ div {
   border-width: medium;
   border-color: yellow;
 }
+main {
+  background-color: silver;
+}
+label {
+  border: 2px dotted Yellow;
+  border-radius: 4px;
+  font-size: 20px;
+  color: darkblue;
+}
+input {
+  border: 3px dotted Yellow;
+  background-color: blue;
+  color: yellow;
+  font-size: 20px;
+}
